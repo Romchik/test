@@ -1,4 +1,3 @@
 <?php
   $test = 'bla';
-  echo 'Hello $test!'."$test hello";
-?>
+  echo 'Hello $test!' . "$test hello";
